@@ -1,0 +1,20 @@
+package collections;
+
+import java.util.ArrayList;
+
+public class ArrayListExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String[] array1 = {"abc","pqr", "xyz"};
+
+ArrayList<String> list1 = new ArrayList<String>();
+list1.add("Member 1 - Gaya3");
+list1.add("Member 2 - Vihaan");
+
+System.out.println("List of Members"+ list1);
+System.out.println("Siza of Array is"+ list1.size());
+
+	}
+
+}

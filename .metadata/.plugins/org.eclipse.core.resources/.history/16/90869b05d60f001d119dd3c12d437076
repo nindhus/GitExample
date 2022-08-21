@@ -1,0 +1,16 @@
+package Oops;
+
+public class HondaCar implements CarInterface {
+	public void start() {
+		
+	}
+	Public void stop() {
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
